@@ -5,10 +5,6 @@
 
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
-..HG if not working try deleting toctree stuff...
-
-..automodule:: django_cityloc_pkg_glicky91
-   :members:
 
 .. toctree::
    :maxdepth: 2
